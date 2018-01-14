@@ -357,7 +357,8 @@ p {
     background: #ED5441;
     position: relative;
 	
-    background: #3366cc;
+    <!--background: #3366cc;-->
+    background-image: Quinton1_pic;	
 	height:650px;
 }
 
