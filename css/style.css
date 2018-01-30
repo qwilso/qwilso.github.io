@@ -178,7 +178,7 @@ figure.effect-oscar:hover p {
 	opacity: 1;
 	-webkit-transform: scale(1);
 	transform: scale(1);
-	color:#fff;+++++++
+	color:#fff;
 }
 
 figure.effect-oscar:hover figcaption {
@@ -291,7 +291,7 @@ p {
 }
 
 .navStyle ul li:first-child {
-	/*margin:0px;*/;
+	margin:0px;
 }
 
 .navStyle ul li:last-child {
@@ -356,17 +356,10 @@ p {
 .top_cont_outer {
     background: #ED5441;
     position: relative;
-<<<<<<< HEAD
     
     background: #3366cc; 
 	height: 650px;
-=======
-	
-    <!--background: #3366cc;-->
-    background-image: Quinton1_pic;	
-	height:650px;
->>>>>>> 603ea0b31eaee3954ca876afd3251b99339f1d88
-}
+    }
 
 .hero_section {
     position: relative;
@@ -459,16 +452,8 @@ a.read_more:hover {
     border: 1px solid #ED5441;
 }
 
-	
 
-
-
-
-
-
-
-/* Services
----------------------------------*/
+/* Services*/
 
 #service {
     padding: 60px 0px;
@@ -482,8 +467,8 @@ a.read_more:hover {
     padding: 40px 0 40px;
 }
 
-.service_section {
-}
+/*.service_section {
+}*/
 
 .service_block {
     text-align: center;
@@ -573,7 +558,7 @@ color:#fff;
 }
 
 .service-list-col1 i {
-    display:;
+    /*display:;*/
     color: #888;
     font-size: 19px;
     font-style: normal;
@@ -1940,7 +1925,7 @@ margin: 0 18px;
 .page_section.team{
 padding: 40px 0;
 }
-, #clients {
+#clients {
 padding: 40px 0;
 }
 .client_logos ul li {
