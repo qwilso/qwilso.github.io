@@ -356,9 +356,16 @@ p {
 .top_cont_outer {
     background: #ED5441;
     position: relative;
+<<<<<<< HEAD
     
     background: #3366cc; 
 	height: 650px;
+=======
+	
+    <!--background: #3366cc;-->
+    background-image: Quinton1_pic;	
+	height:650px;
+>>>>>>> 603ea0b31eaee3954ca876afd3251b99339f1d88
 }
 
 .hero_section {
