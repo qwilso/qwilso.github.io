@@ -1146,6 +1146,15 @@ border: 1px solid #CE1139;
     text-decoration: none;
     border-radius: 80px;
 }
+.social_links i.fab.fa-linkedin{
+    color: blue;
+    
+}
+
+.social_links i.fab.fa-free-code-camp{
+    color: green;
+    
+}
 
 .twitter a:hover {
     color: #55acee;
