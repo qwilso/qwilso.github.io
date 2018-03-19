@@ -145,7 +145,7 @@ figure.effect-oscar figcaption::before {
 	right: 30px;
 	bottom: 30px;
 	left: 30px;
-	border: 1px solid #fff;
+	border: 1px solid rgb(19, 18, 18);
 	content: '';
 }
 
@@ -1428,7 +1428,7 @@ border: 1px solid #CE1139;
 
 .portfolio-item .portfolio_img img {
     width: 100%;
-    height: auto;
+   /* height: auto;*/
 }
 
 .portfolio-item:hover .item_overlay {
